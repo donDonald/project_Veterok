@@ -16,10 +16,7 @@
 ## Осмотр карбюратора К34
 Д6 - К34Б
 <p align="center"><img width='50%' src="files/Photos-002/20250315_215456.jpg"></p>
-<p align="center"><img width='50%' src="files/Photos-002/20250315_215936.jpg"></p>
-<p align="center"><img width='50%' src="files/Photos-002/20250315_221655.jpg"></p>
 <p align="center"><img width='50%' src="files/Photos-002/20250316_083331.jpg"></p>
-<p align="center"><img width='50%' src="files/Photos-002/20250316_084104.jpg"></p>
 <p align="center"><img width='50%' src="files/Photos-002/20250316_084210.jpg"></p>
 
 Отсутстуют крышка колодца, пружина и сама дроссельная заслонка.
@@ -43,7 +40,38 @@
 
 
 
+## Осмотр зажигания
+<p align="center"><img width='50%' src="files/Photos-003/20250316_171032.jpg"></p>
+<p align="center"><img width='50%' src="files/Photos-003/20250316_184852.jpg"></p>
+<p align="center"><img width='50%' src="files/Photos-003/20250316_184937.jpg"></p>
+
+По ходу электронная схема зажигания
+<p align="center"><img width='50%' src="files/Photos-003/698c93cb09d28d9c84a7f282fc8fd2cf.jpg"></p>
+<p align="center"><img width='50%' src="files/Photos-003/bfe02c51bd66b9b6225b9b6896af13e9.jpg"></p>
+
+
+
+
+### Вывод
+Отсутсвует прокладка для крышки.\
+Средний лепесток, с которого снимется искра - не прозванивается, возможно катушка сгорела.
+
+
+
+
+### Refernces
+* [Электрика на д6](http://www.dyr4ik.ru/forum/viewtopic.php?t=28&start=465)
+* [ПРОПАЛА ИСКРА или как проверить катушку зажигания на скутере, мопеде GONE SPARK](https://www.youtube.com/watch?v=3p8osnB9zFQ)
+* [Система зажигания д6, или как же всё подключить???](https://www.youtube.com/watch?v=vI1-QsDQl4w)
+* [Настройка зажигания Д6 . Установка магнето .](https://www.youtube.com/watch?v=3p8osnB9zFQ)
+* [РАЗБОРКА И СБОРКА ДВИЖКА РИГИ Д6](https://www.youtube.com/watch?v=Dy8zXTLWiWc)
+* [Электронное зажигание на веломоторы Д6 Д8 новые дэшки дырчик](https://www.youtube.com/watch?v=yGaQ6p9ln3o)
+
+
+
+
 # Refernces
+* [ДЫРЧИК.РУ - Мы не торопимся](http://www.dyr4ik.ru/)
 * [РАЗБОР ОБЗОР ДВИЖКА Д6](https://www.youtube.com/watch?v=FpoMdVomAl4)
 * [РАЗБОРКА Д-6 без СЪЕМНИКОВ ! Когда НОВЫЙ коленвал - "кривее" Б/Ушного!!](https://www.youtube.com/watch?v=-T0P7CoufEE)
 * [Ремонт двигателя Д6](https://www.youtube.com/watch?v=N8z_FOuV1Kc)
