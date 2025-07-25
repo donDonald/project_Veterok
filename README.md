@@ -4,6 +4,7 @@
 <p align="center"><img width='50%' src="files/Photos-001/IMG_20240405_092104.jpg"></p>
 
 
+---
 
 
 # Д6
@@ -13,7 +14,7 @@
 
 
 
-## Осмотр карбюратора К34
+## Карбюратор К34
 Д6 - К34Б
 <p align="center"><img width='50%' src="files/Photos-002/20250315_215456.jpg"></p>
 <p align="center"><img width='50%' src="files/Photos-002/20250316_083331.jpg"></p>
@@ -41,7 +42,7 @@
 ---
 
 
-## Осмотр зажигания
+## Зажигание
 <p align="center"><img width='50%' src="files/Photos-003/20250316_171032.jpg"></p>
 <p align="center"><img width='50%' src="files/Photos-003/20250316_184852.jpg"></p>
 <p align="center"><img width='50%' src="files/Photos-003/20250316_184937.jpg"></p>
@@ -58,7 +59,6 @@
 Средний лепесток, с которого снимется искра - не прозванивается, возможно катушка сгорела.
 
 
----
 
 
 ### Refernces
@@ -70,9 +70,10 @@
 * [Электронное зажигание на веломоторы Д6 Д8 новые дэшки дырчик](https://www.youtube.com/watch?v=yGaQ6p9ln3o)
 
 
+---
 
 
-## Осмотр корзины сцепления
+## Корзина сцепления
 <p align="center"><img width='50%' src="files/Photos-004/20250318_203717.jpg"></p>
 <p align="center"><img width='50%' src="files/Photos-004/20250318_203722.jpg"></p>
 <p align="center"><img width='50%' src="files/Photos-004/20250318_203745.jpg"></p>
@@ -91,7 +92,7 @@
 ---
 
 
-## Разбор головы
+## Голова
 <p align="center"><img width='50%' src="files/Photos-005/20250319_063515.jpg"></p>
 <p align="center"><img width='50%' src="files/Photos-005/20250319_201335.jpg"></p>
 <p align="center"><img width='50%' src="files/Photos-005/20250321_080242.jpg"></p>
@@ -105,6 +106,22 @@
 
 
 ---
+
+
+## Корпус
+<p align="center"><img width='50%' src="files/Photos-006/20250717_213452.jpg"></p>
+<p align="center"><img width='50%' src="files/Photos-006/20250717_213604.jpg"></p>
+<p align="center"><img width='50%' src="files/Photos-006/20250717_213702.jpg"></p>
+<p align="center"><img width='50%' src="files/Photos-006/20250717_213731.jpg"></p>
+<p align="center"><img width='50%' src="files/Photos-006/20250717_214049.jpg"></p>
+
+
+
+
+### Выводы
+Коленвал ржавый.\
+Шатун пипец ржавый и не особо шатается.\
+Подшипники на замену.
 
 
 # Refernces
