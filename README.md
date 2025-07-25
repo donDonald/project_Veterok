@@ -124,6 +124,23 @@
 Подшипники на замену.
 
 
+---
+
+
+## В разобранном виде
+<p align="center"><img width='50%' src="files/Photos-007/20250717_214231.jpg"></p>
+<p align="center"><img width='50%' src="files/Photos-007/20250717_214430.jpg"></p>
+
+
+
+
+### Выводы
+Нужно восстанавливать.
+
+
+---
+
+
 # Refernces
 * [ДЫРЧИК.РУ - Мы не торопимся](http://www.dyr4ik.ru/)
 * [РАЗБОР ОБЗОР ДВИЖКА Д6](https://www.youtube.com/watch?v=FpoMdVomAl4)
